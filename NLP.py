@@ -49,7 +49,7 @@ def stt():
             L2.insert(0.0,b)
             speakText(b)
             temp = str(random.randint(100,1000))
-            f = open(r"C:\Users\Dell\Desktop\New folder\SpeechtoText\storedText"+temp+".txt",'w') 
+            f = open(r"C:\Users\Dell\Desktop\New folder\SpeechtoText\storedText"+temp+".txt",'w') #change this path for your convenient to store the converted text
             f.write(b)
             f.close()
             print("Output Saved in storedText"+temp+".txt")
