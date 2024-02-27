@@ -31,4 +31,15 @@ Implementing language detection for multilingual support.<br>
 Improving punctuation recognition for better accuracy.<br>
 Adding support for additional speech recognition APIs.<br>
 Feel free to contribute to this project by forking the repository and submitting pull requests.<br>
+<br><br>
+<h3>Output of the Project</h3>
+<div>
+<img style="width:350px;height:350px;"src="Images/1.png"><br><br>
+<img style="width:350px;height:350px;"src="Images/2.png"><br><br>
+<img style="width:350px;height:350px;"src="Images/3.png"><br><br>
+</div>
+<div>
+<img src="Images/4.png"><br><br>
+<img src="Images/result.png">
+</div>
 </html>
